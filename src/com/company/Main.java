@@ -22,6 +22,5 @@ public class Main {
         Size size =Size.M;
         System.out.println(size.getSizeClothes());
 
-        Size[] sizes = Size.values();
     }
 }
